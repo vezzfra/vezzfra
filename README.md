@@ -1,4 +1,4 @@
-Hi, I’m Francesco and I'm a 24 years old developer! 
+Hi, I’m Francesco and I'm a 26 years old developer! 
 
 I started my travel in the coding world when I was 13 out of curiosity and passion and I pushed myself to my limits to grow. 
 I love challenging projects and this is why I always try to develop apps based on something that I like; it's easier to make something great if you actually love it!
